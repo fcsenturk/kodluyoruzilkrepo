@@ -15,7 +15,7 @@ Linux İçin:
 ``` cd kodluyoruzilkrepo code . ```
 
 ## Contributing 
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+` Hayalim olan yazılım dalında hayatımı daha konforlu ve daha iyi yerlere taşımak istiyorum. `
 
 ## License
 
