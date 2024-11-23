@@ -16,7 +16,7 @@ Linux İçin:
 ## Contributing 
 * Bu işte profesyonelleşmek ve kendimi geliştirmek istiyorum.
 * Hayalim olan yazılım dalında hayatımı daha konforlu ve daha iyi yerlere taşımak istiyorum.
-* Bağlı olduğum devletim Türkiye'ye hizmet edip ülkemizi çok daha iyi yerlere getirmek için çalışmak, bizden sonra ki gelecek olan nesillere örnek olmak istiyorum.
+* Bağlı olduğum devletim Türkiye'ye hizmet edip ülkemizi çok daha iyi yerlere getirmek için çalışmak, bizden sonraki gelecek nesillere örnek olmak istiyorum.
 
 
 ## License
