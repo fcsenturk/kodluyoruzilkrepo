@@ -4,8 +4,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ![Kodluyoruz](https://cdn.prod.website-files.com/658d627c8d384d416989b728/658d6f812c0ec7b8fc918028_Kodluyoruz_Turuncu%20logo_Kare.png)
 
 ## Installlation
-Öncelikle projeyi clonelayın.
-
+Öncelikle projemizi klonlayalım.
 ``` git clone https://github.com/fcsenturk/kodluyoruzilkrepo.git ```
 
 ## Usage
@@ -15,7 +14,10 @@ Linux İçin:
 ``` cd kodluyoruzilkrepo code . ```
 
 ## Contributing 
-` Hayalim olan yazılım dalında hayatımı daha konforlu ve daha iyi yerlere taşımak istiyorum. `
+* Bu işte profesyonelleşmek ve kendimi geliştirmek istiyorum.
+* Hayalim olan yazılım dalında hayatımı daha konforlu ve daha iyi yerlere taşımak istiyorum.
+* Bağlı olduğum devletim Türkiye'ye hizmet edip ülkemizi çok daha iyi yerlere getirmek için çalışmak, bizden sonra ki gelecek olan nesillere örnek olmak istiyorum.
+
 
 ## License
 
